@@ -1,1 +1,1 @@
-# rusume
+# resume
